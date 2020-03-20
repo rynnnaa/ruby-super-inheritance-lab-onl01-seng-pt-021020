@@ -1,5 +1,5 @@
 
-require_relative ./student
+require_relative ./student.rb
 class Chatty_student < Student
   
   def hello
